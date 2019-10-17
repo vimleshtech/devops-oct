@@ -1,0 +1,96 @@
+Today's Topics
+=========================
+Overview of Devops
+DevOps Tools
+Git and GitHub
+
+Overview of Devops
+=========================
+is cobination of Dev+Testing+Ops(IT Infra)
+
+-> Now days devops is trending profile (very large number of openings in industry)
+					YoY  : 24%
+-> DevOps works with Agile Methodlogy 
+		Agile is methodlogy to manage the project life cycle (requirement gathering, development, testing , release , support etc.)
+
+
+DevOps Tools
+===================================
+Dev:
+	JDK - Java
+	Python 
+	Web Plateform: Eclipse, .Net(Visual Studio)
+	Version control and distribuation tools
+		-Git and Github
+		-SVN
+		etc.				
+Testing:
+	Junit
+	Selenium
+	Cucumber 	
+	Git-GitHub
+	Jenkins
+Ops:
+	Cloud :
+		AWS
+		Azure
+		Google Cloud
+		etc.
+
+	CI-CD: continous integration and deployment
+		Git-GitHub
+		Jenkins
+	Provisining:
+		Ansible
+		Chef
+		Puppet 
+		
+	Container:
+		Docker
+		Kubernetss
+	Moniter:
+		Nagios
+		Sensu
+				
+We will cover:
+	Git and GitHub -> JDK(java) and Eclipse -> Jenkins -> Junit with Selenium 
+			-> Agile (jira and scrum)
+			-> Basic Python 
+			-> Cloud (AWS)
+			-> Ansible
+			-> Docker
+			-> Nagios 
+		 
+Git and GitHub:
+=========================
+Git: It is a Distributed Version Control System for tracking versions of files. 
+Github: It is  web portal and cloud hosting service for your Git repositories.
+
+
+Git allows you to track versions of your code in your local machine. However, if you want a remote backup of your code or want to publish your code to a community then you’ve to push it to Github
+
+Step 1: Install git on local machine
+	https://git-scm.com/download/win
+
+	
+Step 2: Open git bash or cmd
+
+Step 3:
+	change directory 
+
+	cd "C:\Users\vkumar15\Desktop\Learning & Training\DevOps-session"
+
+Step 4: create or init the directory 
+	
+	git init 
+	
+Step 5: git commands
+	git status 		--show files status
+
+	git add -A 		--add all files to git stage 
+	or
+	git add .
+	
+	git add filename.ext	--add indivisual file or folder 	
+
+
