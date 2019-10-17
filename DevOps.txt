@@ -113,3 +113,29 @@ Step 5: git commands
 
 	git reset filename.ext
 	
+
+Step 6: create github account
+		https://github.com
+
+	
+	Repo path :
+			https://github.com/vimleshtech/devops-oct
+
+	
+Step 7: Push the local code to github 
+
+	git remote add <origin> https://github.com/vimleshtech/devops-oct
+	git push -u <origin> master
+		     dest    source
+
+
+Step 8:  git clone / donwload the files on other device
+
+	git clone https://github.com/vimleshtech/devops-oct   --first time
+
+	git pull https://github.com/vimleshtech/devops-oct   --download the changes 
+
+	
+
+	
+
