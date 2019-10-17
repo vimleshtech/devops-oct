@@ -101,4 +101,9 @@ Step 5: git commands
 				 --git commit or save from stage to local repository 
 				 --local repository name is "master" 
 				 	
+	git log 		--show commit history 
+
+
+	--now change the file and see the modified data or content
+	
 				
