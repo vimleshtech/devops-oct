@@ -94,3 +94,11 @@ Step 5: git commands
 	git add filename.ext	--add indivisual file or folder 	
 
 
+	git commit -m "message"  --this command will show error first time on a device, in order to fix we need to configure the user
+				    git config --global user.email ""
+			 	    git config --global user.name ""	
+					
+				 --git commit or save from stage to local repository 
+				 --local repository name is "master" 
+				 	
+				
