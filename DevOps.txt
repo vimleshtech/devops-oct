@@ -106,4 +106,10 @@ Step 5: git commands
 
 	--now change the file and see the modified data or content
 	
-				
+	git diff filenmae 
+	
+
+	--how to do file from stage to unstage
+
+	git reset filename.ext
+	
